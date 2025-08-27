@@ -44,3 +44,6 @@ Ideas for further features
 - Additional map layers
 - Select multiple FSAs
 - Filter permits to show
+## Stats
+- Display overall statistics over a selected time frame
+- Filter statistics
